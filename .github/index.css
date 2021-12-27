@@ -1,0 +1,48 @@
+
+
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#page {
+    /* font-size: 100%; */
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1.site-title {
+    font-weight: 800;
+    font-size: 32px;
+}
+
+#topmenu ul li a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    position: relative;
+    padding: 19px 10px;
+    margin: 0;
+    color: darkslategrey;
+}
+
+li {
+   list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#topmenu li a:hover {
+   color: red;
+}
+
+
